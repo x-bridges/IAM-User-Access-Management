@@ -1,0 +1,4 @@
+role,permissions
+Admin,read/write/delete
+Help Desk,read/write
+Employee,read

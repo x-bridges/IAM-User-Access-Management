@@ -1,0 +1,8 @@
+2026-09-29 09:57:41.961663 - Disabled account: craig
+2026-09-29 10:21:14.157622 - Disabled account: xavier
+2026-09-29 10:49:14.965852 - Changed bryce role to Fiance
+2026-09-29 10:49:34.082814 - Disabled account: craig
+2026-09-29 15:03:16.067979 - Disabled account: xavier
+2026-09-29 15:03:47.081834 - Created user: craig with role: Admin
+2026-09-29 15:56:58.555437 - Created user: dtp_user with role: Admin
+2026-09-29 19:46:43.654106 - Enabled account: craig
